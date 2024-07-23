@@ -13,7 +13,7 @@ Komga is a media server for your comics, mangas, BDs, magazines and eBooks.
 
 #### Chat on [Discord](https://discord.gg/TdRpkDu)
 
-## Features  
+## Features     
 
 - Browse libraries, series and books via a responsive web UI that works on desktop, tablets and phones
 - Organize your library with collections and read lists
